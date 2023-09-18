@@ -1,11 +1,11 @@
-***What Is a Software Engineer?***
+#What Is a Software Engineer?
 
-Link to a software engineering article:
+Link to the article:
 https://www.computerscience.org/careers/software-engineer/
 
 ---
 
-**Thoughts on Software Engineering Skills**
+***Thoughts on Software Engineering Skills***
 
 The article on the essential soft and hard skills for software engineers brilliantly encapsulates the duality of the profession. While the hard skills emphasize the technical acumen required, it's the soft skills that truly stand out to me. In many professions, technical expertise can often overshadow interpersonal attributes. However, in software engineering, the fusion of both is non-negotiable. 
 
